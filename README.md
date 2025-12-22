@@ -1,5 +1,5 @@
 # mtex-quat2euler
-MTEX, MATLAB, microstructure, texture, crystal plasticity, quaternion, Euler angle 
+DAMASK, MTEX, MATLAB, microstructure, texture, crystal plasticity, quaternion, Euler angle 
 
 Convert quaternion orientation data (normal output data in a simulation with the latest versions of DAMASK crystal plasticity spectral solver) to Euler angles using MTEX in MATLAB.
 
